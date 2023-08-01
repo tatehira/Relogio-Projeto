@@ -1,4 +1,5 @@
 # Relogio-Projeto
 Projeto de relógio com HTML, CSS e JS
 # Preview
-![image](https://github.com/tatehira/Relogio-Projeto/assets/68212041/992c4478-24c5-46f9-9db4-68d4e7a1e3c5)
+![Stopwatch e mais 4 páginas - Pessoal — Microsoft_ Edge 2023-08-01 12-31-02](https://github.com/tatehira/Relogio-Projeto/assets/68212041/ad1559c6-6611-4944-b4b0-f76e40ed8903)
+
